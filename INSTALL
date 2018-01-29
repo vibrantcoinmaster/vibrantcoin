@@ -1,0 +1,9 @@
+Building vibrantcoin
+
+See doc/readme-qt.rst for instructions on building vibrantcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of vibrantcoin.
+
+See doc/build-*.txt for instructions on building vibrantcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of vibrantcoin.
